@@ -20,6 +20,7 @@
 */
 public with sharing class AccountStructure{
 //
+//Test branch1
     //Declare variables
     public String currentId;
     public List<ObjectStructureMap> asm ;
