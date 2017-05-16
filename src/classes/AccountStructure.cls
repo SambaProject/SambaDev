@@ -26,6 +26,14 @@ public with sharing class AccountStructure{
     public Map<String, ObjectStructureMap> masm;
     public List<Integer> maxLevel;
     
+    
+    
+    
+    
+    
+    
+    
+    
     /**
     * Contructor
     */
