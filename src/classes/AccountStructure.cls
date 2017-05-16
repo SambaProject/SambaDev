@@ -19,20 +19,12 @@
 * where the sObject and query must be changed
 */
 public with sharing class AccountStructure{
-    // first comment 
+
     //Declare variables
     public String currentId;
     public List<ObjectStructureMap> asm ;
     public Map<String, ObjectStructureMap> masm;
     public List<Integer> maxLevel;
-    
-    
-    
-    
-    
-    
-    
-    
     
     /**
     * Contructor
