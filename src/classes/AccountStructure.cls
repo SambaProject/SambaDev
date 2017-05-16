@@ -19,8 +19,10 @@
 * where the sObject and query must be changed
 */
 public with sharing class AccountStructure{
-    // first comment 
+
     //Declare variables
+    
+    //Test Records
     public String currentId;
     public List<ObjectStructureMap> asm ;
     public Map<String, ObjectStructureMap> masm;
