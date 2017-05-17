@@ -1,10 +1,8 @@
-//Release branch 
-
-
+//release brnach 
 
 /**  Copyright (c) 2008, Matthew Friend, Sales Engineering, Salesforce.com Inc.
 *  All rights reserved.
-*
+//test push1
 *  Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 *  Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer. 
 *  Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
@@ -22,19 +20,16 @@
 * To adapt this to anouther Object simply search for "Change" to go to the places 
 * where the sObject and query must be changed
 */
-
-
 public with sharing class AccountStructure{
 
     //Declare variables
-    //testdata23
     
     //Test Records
     public String currentId;
     public List<ObjectStructureMap> asm ;
     public Map<String, ObjectStructureMap> masm;
     public List<Integer> maxLevel;
-    
+    // tst comment5th
     /**
     * Contructor
     */
