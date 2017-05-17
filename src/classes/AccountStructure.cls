@@ -1,3 +1,7 @@
+//Release branch 
+
+
+
 /**  Copyright (c) 2008, Matthew Friend, Sales Engineering, Salesforce.com Inc.
 *  All rights reserved.
 *
@@ -18,13 +22,12 @@
 * To adapt this to anouther Object simply search for "Change" to go to the places 
 * where the sObject and query must be changed
 */
+
+
 public with sharing class AccountStructure{
 
     //Declare variables
     //testdata23
-    
-    
-    
     
     //Test Records
     public String currentId;
