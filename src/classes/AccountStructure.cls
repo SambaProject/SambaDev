@@ -21,6 +21,12 @@
 public with sharing class AccountStructure{
 
     //Declare variables
+    //testdata23
+    
+    
+    
+    
+    //Test Records
     public String currentId;
     public List<ObjectStructureMap> asm ;
     public Map<String, ObjectStructureMap> masm;
